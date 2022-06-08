@@ -1,0 +1,42 @@
+num	Treatment	Id	GE
+1	control	3A4	0.259887359
+2	sublethal	3D4	1.442317319
+3	control	3A1	
+4	environmental	3D3	
+5	environmental	3D2	
+6	control	6B5	
+7	environmental	3D1	
+8	sublethal	1C5	
+9	sublethal	2A5	0.771480885
+10	environmental	3C6	
+11	control	3C2	
+12	sublethal	1C2	1.047545485
+13	environmental	2D3	
+14	environmental	6A6	0.41080763
+15	sublethal	1C3	0.158126142
+16	control	5C2	0.268201765
+17	control	3A3	0.280132338
+18	control	3C4	0.248043833
+19	control	3A2	
+20	control	3B6	
+21	environmental	7B1	0.281651877
+22	environmental	2B4	0.655938386
+23	environmental	5D2	0.40251244
+24	sublethal	5C3	0.816569348
+25	environmental	3B3	
+26	control	3C3	1.48690133
+27	sublethal	12B3	0.685817262
+28	environmental	2D1	0.542275816
+29	control	4B1	
+30	environmental	5C6	3.158033426
+31	control	6C3	2.482362315
+32	sublethal	11B3	3.959688282
+33	environmental	5D4	1.168703642
+34	environmental	2C4	2.048629179
+35	control	4B3 	4.781439415
+36	environmental	3A5 	
+37	sublethal	6C1 	0.208053196
+38	sublethal	1A1 	5.025332417
+39	sublethal	2A1 	2.418908988
+40	control	4A3 	2.036443181
+41	control	1A3	1.042694868
